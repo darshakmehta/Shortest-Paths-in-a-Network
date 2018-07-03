@@ -1,0 +1,2 @@
+# Shortest-Paths-in-a-Network
+Consider a data communication network that must route data packets. The goal of the project is to find the shortest path to minimize the sum of the transmission time of the links along the path. We have used Dijkstra's shortest path Algorithm to achieve the shortest path. The program can be further applied to find the shortest path between 2 connecting cities in USA, where we can consider traffic and length of the highways as path weights
