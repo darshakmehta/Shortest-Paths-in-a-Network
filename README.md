@@ -161,9 +161,4 @@ The algorithm checkReachable() will be called for every n vertices. So it will t
 3. https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 4. https://gcbenison.wordpress.com/2012/03/28/the-nerdy-stuff-matters/
 5. https://en.wikipedia.org/wiki/Open_Shortest_Path_First
-6. https://www.geeksforgeeks.org/iterators-in-java/ 
-7. https://www.geeksforgeeks.org/list-interface-java-examples/ 
-8. https://www.geeksforgeeks.org/treeset-in-java-with-examples/
-9. https://www.geeksforgeeks.org/pair-class-in-java/
-10. https://www.mkyong.com/java/java-display-double-in-2-decimal-points/
-11. https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
+6. https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
