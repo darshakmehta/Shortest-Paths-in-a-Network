@@ -5,8 +5,8 @@
 
 ***/
 
-									ITCS 6114/8114: Algorithms and Data Structures
-								  Programming Project 2: Shortest Paths in a Network
+				ITCS 6114/8114: Algorithms and Data Structures
+				Programming Project 2: Shortest Paths in a Network
 
 # Introduction:
 
